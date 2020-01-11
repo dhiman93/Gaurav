@@ -1,0 +1,3 @@
+Spotted Hyena Optimizer (SHO) is inspired by the biological behaviors of spotted hyenas. The main concept behind this algorithm is the social relationship between spotted hyenas and their collaborative behavior. The three basic steps of SHO are searching for prey, encircling, and attacking prey and all three are mathematically modeled and implemented.
+This is the source code of the paper: Gaurav Dhiman and Vijay Kumar. "Spotted hyena optimizer: a novel bio-inspired based metaheuristic technique for engineering applications." Advances in Engineering Software 114 (2017): 48-70. https://doi.org/10.1016/j.advengsoft.2017.05.014
+More information can be found in: http://dhimangaurav.com/gbc.html
